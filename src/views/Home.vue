@@ -1,4 +1,3 @@
-/* eslint-disable max-len */
 <template>
   <div class="home">
     <h1>Homepage</h1>
